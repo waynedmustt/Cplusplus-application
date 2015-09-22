@@ -1,0 +1,19 @@
+truck	0
+Bus	0
+APV	1
+Luxio	1
+Alphard	1
+BMW	2
+Benz	2
+Porsche 2
+Audi	2
+Mazda	2
+avanza	2
+xenia	2
+kijang	2
+Swift	3
+Karimun 3
+jazz	3
+
+break   
+
